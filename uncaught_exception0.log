@@ -1,0 +1,4 @@
+Mar 6, 2013 10:51:21 AM vlb.ide.gui.MyUncaughtExceptionHandler uncaughtException
+SEVERE: Thread main: / by zero
+java.lang.ArithmeticException: / by zero
+	at vlb.ide.gui.TestUncaughtExceptionHandling.main(TestUncaughtExceptionHandling.java:14)

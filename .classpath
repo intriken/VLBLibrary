@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/commons/commons-lang-2.5.jar" sourcepath="C:/Documents and Settings/vincentb/Desktop/workspace/libscr/commons-lang-2.5-src"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/commons/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/gag-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/Zq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jsch-0.1.43-jdk14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/commons/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/db2jcc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/db2jcc_license_cisuz.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/jdbc_allbase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/jdbc/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/poi/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vince/Desktop/workspace/lib/gui/swingx-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
